@@ -11,7 +11,7 @@ For the sake of simplicity, a minimum number of external dependencies are used a
 
 For visualization purposes, The following external packages are used 
 - Numpy (to generate a list only, not for processing)
-- Matplotlib (For visualizing graphs)
+- Matplotlib (For visualizing stuff)
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
 
